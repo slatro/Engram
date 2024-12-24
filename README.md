@@ -48,7 +48,7 @@ docker compose up -d
 
 <h1 align="center">Log kontrolleri</h1>
 
-> Loglar sizde farklı olabilir benim kurulumum eskiye ait, güncel versionunu yüklüyorsunuz siz.
+> Loglar sizde farklı olabilir benim kurulumum eskiye ait, güncel versionunu yüklüyorsunuz siz...
 
 ```console
 # İlk olarak buradan loglara bakıyoruz:
